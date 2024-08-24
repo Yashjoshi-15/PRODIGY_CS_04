@@ -12,3 +12,6 @@ Key Features:
 - Allows for easy termination by pressing the 'Escape' key.
 
   # Functions used in
+- pynput -This allows you to control and monitor input devices.
+- open- open() in python is used to open a file in the desired mode the user wants and returns the requested file object
+- Listener - The Listener class is an “abstract” base class for any objects which wish to register to receive notifications of new messages A Listener can be used in two ways; the default is to call the Listener with a new message, or by calling the method on_message_received.
